@@ -2,9 +2,7 @@
 
 ## 📷 Dashboard Preview
 
-```md
 <img width="1022" height="585" alt="Screenshot 2026-06-01 152124" src="https://github.com/user-attachments/assets/a2cb7571-0770-4f00-9d23-1137c7713a15" />
-```
 
 ---
 
