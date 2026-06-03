@@ -1,7 +1,12 @@
 # 📊 Vrinda Clothing Studio – Excel Sales Dashboard
 
-<img width="1022" height="585" alt="Screenshot 2026-06-01 152124" src="https://github.com/user-attachments/assets/a2cb7571-0770-4f00-9d23-1137c7713a15" />
+## 📷 Dashboard Preview
 
+```md
+<img width="1022" height="585" alt="Screenshot 2026-06-01 152124" src="https://github.com/user-attachments/assets/a2cb7571-0770-4f00-9d23-1137c7713a15" />
+```
+
+---
 
 An interactive **Sales Dashboard built in Microsoft Excel** to analyze and visualize business performance data for **Vrinda Clothing Studio**.
 
@@ -73,17 +78,6 @@ To build an interactive dashboard that transforms raw sales data into meaningful
 
 ---
 
-## 📷 Dashboard Preview
-
-(Add your dashboard screenshot here)
-
-Example:
-
-```md
-![Dashboard Preview](dashboard.png)
-```
-
----
 
 ## 🚀 How to Use
 
